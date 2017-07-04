@@ -1,4 +1,5 @@
 ## Purpose
+The notebook "Regularization in Linear Regression.ipynb" discusses $L1$ and $L2$ regularization methods in the context of linear regression. The benefits of regularization to prevent overfitting and implementation in python using real data are included.
 
 ## Data
 
