@@ -9,7 +9,11 @@ The notebook shows how to classify the input data into 3 groups using SOM. Howev
 
 ## References
 [Siraj's Video on Neural Networks](https://www.youtube.com/watch?v=ov_RkIJptwE&t=1s)
+
 [Video on using SOM for Classification of Input Data](https://www.youtube.com/watch?v=H9H6s-x-0YE)
+
 [Tutorial on SOM with some code](http://www.ai-junkie.com/ann/som/som1.html)
+
 [Tutorial on SOM with python code](http://blog.yhat.com/posts/self-organizing-maps-1.html)
+
 [Lecture Slides on SOM](http://www.cs.bham.ac.uk/~jxb/NN/l16.pdf)
