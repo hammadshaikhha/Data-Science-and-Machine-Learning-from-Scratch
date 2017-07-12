@@ -4,6 +4,13 @@ Self Organizing Maps (SOM) are a type of neural network that is trained using un
 ## Data
 From 1985-1989 the state of Tennessee conducted a experiment to examine the causal impacts of smaller class sizes on student test scores. The data set from this study is now publicly available and can be found on [dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10766). I use a subset of this data set to apply SOM. In particular, I keep 6 variables for the grade 1 students, free or reduced lunch status, school absences, math, reading, listening, and word study standardized test scores. I only keep students that non-missing data for each of these variables. 
 
+## Dependencies
+* numpy
+* Pandas
+* Matplotlib
+
+All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
+
 ## Work In Progress
 The notebook shows how to classify the input data into 3 groups using SOM. However I am open to ideas on how this 6 demensional data should be viewed on a 2D plane. There seem to be many ways to do it as show in this data visualization video from MATLAB SOM library [MATLABs Neural Network Toolbox](https://www.youtube.com/watch?v=1z5wDCubvV0) which applies SOM to the standard Iris data set. 
 
