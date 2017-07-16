@@ -1,5 +1,0 @@
-## Purpose
-
-## Data
-
-## References
