@@ -1,6 +1,8 @@
 ## Purpose
+Naive Bayes is a classification algorithm that uses the Bayes theorem together with a assumption of conditional independence to assign probabilities to all classes given the observation features. The notebook "Naive Bayes.ipynb" introduces the Naive Bayes algorithm, and applies it to classify Youtube comments as spam or ham (legitimate comments). 
 
 ## Data
+The data used in the Naive Bayes notebook is from the UCI machine learning repository. It contains several comments from very popular music videos from youtube and has labels for each comment being spam or ham. The youtube spam collection data set can be found [here](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection).
 
 ## References
 [Siraj's video on Probability and Naive Bayes](https://www.youtube.com/watch?v=PrkiRVcrxOs)
