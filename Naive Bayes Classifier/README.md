@@ -3,3 +3,8 @@
 ## Data
 
 ## References
+[Siraj's video on Probability and Naive Bayes](https://www.youtube.com/watch?v=PrkiRVcrxOs)
+
+[Great introduction to Bayes Theorem](https://www.youtube.com/watch?v=R13BD8qKeTg&t=551s)
+
+[Naive Bayes from Scratch in Python on Diabetes Classification](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
