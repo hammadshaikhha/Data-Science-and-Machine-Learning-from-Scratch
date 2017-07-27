@@ -4,6 +4,13 @@ Naive Bayes is a classification algorithm that uses the Bayes theorem together w
 ## Data
 The data used in the Naive Bayes notebook is from the UCI machine learning repository. It contains several comments from very popular music videos from youtube and has labels for each comment being spam or ham. The youtube spam collection data set can be found [here](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection).
 
+## Dependencies
+* numpy
+* Pandas
+* re
+
+All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
+
 ## References
 [Siraj's video on Probability and Naive Bayes](https://www.youtube.com/watch?v=PrkiRVcrxOs)
 
