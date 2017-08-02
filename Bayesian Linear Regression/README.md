@@ -12,5 +12,6 @@ I use the IMDB movie data set from kaggle and examine the relationship between I
 All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 ## References
-[https://www.youtube.com/watch?v=ttE0F7fghfk](Siraj's video on hyperparameters)
-[https://www.youtube.com/watch?v=dtkGq9tdYcI][Video introducing bayesian linear regression]
+[Siraj's video on hyperparameters](https://www.youtube.com/watch?v=ttE0F7fghfk)
+[Video introducing bayesian linear regression](https://www.youtube.com/watch?v=dtkGq9tdYcI)
+[Frequentist vs Bayes Regression Stackexchange Discussion](https://stats.stackexchange.com/questions/252577/bayes-regression-how-is-it-done-in-comparison-to-standard-regression)
