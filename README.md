@@ -1,7 +1,9 @@
 # Math-for-Machine-Learning-Course-by-Siraj
-This is a course offered by Siraj Raval on youtube about math and statistical concepts used in machine learning. The purpose of this course is to learn how to implement the most common machine learning algorithms from scratch (without using machine learning libraries such as tensorflow, PyTorch, scikit-learn, etc).
 
-This repository will contain my answers to the weekly homework (coding challenges) from this course. I will submit the assignments as detailed jupyter notebooks so its easy for others to go over the code. 
+# Introduction
+This repository was initially created to submit machine learning assignments for Siraj Raval machine learning course on youtube. The purpose of the course was to learn how to implement the most common machine learning algorithms from scratch (without using machine learning libraries such as tensorflow, PyTorch, scikit-learn, etc).
+
+Although that course has ended now, I am continuing to learn machine learning from other sources such as Coursera, online blogs, and attending machine learning lectures at University of Toronto. Sticking to the theme of implemnting machine learning algortihms from scratch, I will continue to post detailed notebooks in python as I learn more. 
 
 # References:
 [Sylabus for mathematics in machine learning course](https://github.com/llSourcell/The_Math_of_Intelligence)
