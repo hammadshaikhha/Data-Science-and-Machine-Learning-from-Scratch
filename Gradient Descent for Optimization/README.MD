@@ -3,7 +3,10 @@ The jupyter notebook "Gradient Descent for Optimization.ipynb" implements gradie
 
 # References
 [Siraj's video on Evolution of Gradient Descent](https://www.youtube.com/watch?v=nhqo0u1a6fw&t=334s)
+
 [Gradient Descent Introduction](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/)
+
 [Another Gradient Descent Introduction](http://www.big-data.tips/gradient-descent)
+
 [Gradient Descent for Regression](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
 
