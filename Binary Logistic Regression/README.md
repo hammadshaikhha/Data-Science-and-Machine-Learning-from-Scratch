@@ -1,5 +1,5 @@
 ## Purpose
-The notebook "Binary Logistic Regression.ipynb"  discusses using logistic regression for binary classification. The key math and statistic ideas behind logistic regression are also included. 
+The notebook "Binary Logistic Regression.ipynb"  discusses using logistic regression for binary classification. The key math and statistic ideas behind logistic regression are also included. Note that some of the LaTeX equations have trouble rendering on the browser, so please download and run on your computer. 
 
 ## Data
 I use a de-identified data set of over 40,000 university students to predict whether a student will go on academic probation after their first year (2nd, 3rd, etc) using their first year performance and other characteristics. The data set comes from a research paper, the authors have made the data available through the [journals website](https://www.aeaweb.org/articles?id=10.1257/app.2.2.95).
