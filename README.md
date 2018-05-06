@@ -8,7 +8,7 @@ Although that course has ended now, I am continuing to learn machine learning fr
 # Style of notebooks
 I write the notebooks to contain 1) Intuition, 2) Mathematics behind the algorithm, 3) Code implementation from scratch, and 4) Application to real data. 
 
-If you spot any mistakes in the code or the theory, feel free to raise a issues. 
+If you spot any mistakes in the code or the theory, feel free to raise an issue. 
 
 
 # References:
