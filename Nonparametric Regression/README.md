@@ -10,6 +10,7 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 # References
 [Chris McCormik Blog](http://mccormickml.com/2014/02/26/kernel-regression/)
+
 [Andrew Ng Notes](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
 
