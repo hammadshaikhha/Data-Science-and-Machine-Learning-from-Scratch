@@ -1,7 +1,7 @@
 ## Purpose
-The "Linear Regression.ipynb" notebook discusses linear regression as a method to model the statistical relationship between and out $Y$ and predictor(s) $X.$ I discuss how the linear regression relates to the conditional expectation function. 
+The "Linear Regression.ipynb" notebook discusses linear regression as a method to model the statistical relationship between and out Y and predictor(s) X. I discuss how the linear regression relates to the conditional expectation function. 
 
-My notes on linear regression related to this notebook can be found in "Linear Regression Notes.pdf"
+My notes on linear regression related to this notebook can be found in "Linear Regression Note.pdf"
 
 ## Data
 Linear regression is used to model the relationship between the number of goals scored and attempted shots on net in FIFA. I use the [FIFA 2018 data set](https://www.kaggle.com/mathan/fifa-2018-match-statistics) from kaggle:
