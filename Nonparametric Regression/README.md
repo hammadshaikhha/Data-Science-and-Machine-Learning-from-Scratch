@@ -11,6 +11,7 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 # Contribution ideas
 
 If anyone is interested in working further on improving this notebook, here are some ideas:
+* Application to real data with nonlinearities
 * Discuss and implement cross validation to choose the tuning parameters
 * Discuss and implement other estimation methods such as locally weighted regression
 
