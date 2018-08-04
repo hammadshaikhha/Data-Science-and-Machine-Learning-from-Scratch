@@ -4,6 +4,19 @@ The "Linear Model Selection.ipynb" notebook discusses 1) Subset selection, 2) St
 # Data
 The notebook uses school level achievement and characteristics data from New York. The data is [available on kaggle](https://www.kaggle.com/passnyc/data-science-for-good). We use model selection methods to determine a linear model for school level math achievememnt. 
 
+## Dependencies
+* numpy
+* Pandas
+* Matplotlib
+* scikit-learn (just for lasso)
+
+All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
+
+## Contribution Ideas
+If anyone is interested in working further on improving this notebook, here are some ideas:
+* Code lasso from scratch using numpy (don't rely on scikit-learn)
+* Perform cross validation to find optimal tuning parameter for lasso. Compare model selected by lasso to stepwise regression.
+
 # References
 [Subset selection video](https://www.youtube.com/watch?v=91si52nk3LA)
 
