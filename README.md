@@ -12,7 +12,7 @@ I write the notebooks to contain:
 
 1) Intuition
 
-2) Mathematics andStatistics behind the tool/algorithm
+2) Mathematics and Statistics behind the tool/algorithm
 
 3) Code implementation from scratch (using numpy)
 
