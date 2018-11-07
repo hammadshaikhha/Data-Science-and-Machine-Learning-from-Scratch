@@ -13,6 +13,9 @@ From 1985-1989 the state of Tennessee conducted a experiment to examine the caus
 
 All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
+## Contribution Opportunities
+At the end of the notebook I suggest multiple extensions, feel free to implement them in the notebook and do a pull request.
+
 ## References
 [Notebook on linear regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
 
