@@ -17,4 +17,4 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 [Multiarm bandit vs. AB test](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 
-[Contextual banfit introduction](https://getstream.io/blog/introduction-contextual-bandits/)
+[Contextual bandit introduction](https://getstream.io/blog/introduction-contextual-bandits/)
